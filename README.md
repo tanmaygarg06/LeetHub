@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0015-3sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanmaygarg06/LeetHub/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tanmaygarg06/LeetHub/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/tanmaygarg06/LeetHub/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0015-3sum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
