@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/tanmaygarg06/LeetHub/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaygarg06/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/tanmaygarg06/LeetHub/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0015-3sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaygarg06/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/tanmaygarg06/LeetHub/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
