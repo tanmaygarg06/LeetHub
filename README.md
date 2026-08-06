@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanmaygarg06/LeetHub/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
