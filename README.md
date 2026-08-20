@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/tanmaygarg06/LeetHub/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmaygarg06/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/tanmaygarg06/LeetHub/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/tanmaygarg06/LeetHub/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
