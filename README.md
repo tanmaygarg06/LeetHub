@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanmaygarg06/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaygarg06/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tanmaygarg06/LeetHub/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanmaygarg06/LeetHub/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tanmaygarg06/LeetHub/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
