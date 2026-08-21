@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tanmaygarg06/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1331-rank-transform-of-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/tanmaygarg06/LeetHub/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tanmaygarg06/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
