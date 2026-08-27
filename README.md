@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tanmaygarg06/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tanmaygarg06/LeetHub/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tanmaygarg06/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -180,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tanmaygarg06/LeetHub/tree/master/0202-happy-number) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
