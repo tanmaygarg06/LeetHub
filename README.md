@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tanmaygarg06/LeetHub/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaygarg06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/tanmaygarg06/LeetHub/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/tanmaygarg06/LeetHub/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaygarg06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1331-rank-transform-of-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaygarg06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 ## Minimax
 |  |
