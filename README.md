@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/tanmaygarg06/LeetHub/tree/master/0202-happy-number) |
+| [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaygarg06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/tanmaygarg06/LeetHub/tree/master/0058-length-of-last-word) |
+| [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaygarg06/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaygarg06/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanmaygarg06/LeetHub/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanmaygarg06/LeetHub/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/tanmaygarg06/LeetHub/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaygarg06/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -211,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanmaygarg06/LeetHub/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
