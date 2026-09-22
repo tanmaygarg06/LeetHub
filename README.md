@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanmaygarg06/LeetHub/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaygarg06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/tanmaygarg06/LeetHub/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaygarg06/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaygarg06/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaygarg06/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/tanmaygarg06/LeetHub/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 ## Game Theory
 |  |
