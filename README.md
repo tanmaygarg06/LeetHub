@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaygarg06/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tanmaygarg06/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaygarg06/LeetHub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tanmaygarg06/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaygarg06/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/tanmaygarg06/LeetHub/tree/master/2029-stone-game-ix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaygarg06/LeetHub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaygarg06/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaygarg06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmaygarg06/LeetHub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/tanmaygarg06/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Minimax
 |  |
