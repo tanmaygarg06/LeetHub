@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/tanmaygarg06/LeetHub/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaygarg06/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanmaygarg06/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanmaygarg06/LeetHub/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanmaygarg06/LeetHub/tree/master/0058-length-of-last-word) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tanmaygarg06/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0678-valid-parenthesis-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaygarg06/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tanmaygarg06/LeetHub/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/tanmaygarg06/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanmaygarg06/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
